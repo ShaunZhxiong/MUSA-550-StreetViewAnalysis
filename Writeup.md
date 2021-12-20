@@ -134,7 +134,7 @@ Based on the above street element outcome, KMeans Clustering Method is used to f
 <img src="data/ppt/clustering.jpg" alt="drawing" width="500"/>
 <figcaption>Fig.5 - Visualization of Clustering map</figcaption>
 </center></figure>
-Interestingly, even though we did not include the geometry feature when doing the clustering analysis, it still represents spatial clustering feature. This may because of the administration unit division and community segregation. Adjacent streets will receive similar urban administration resource and attract similar population.
+Interestingly, even though we did not include the geometry feature when doing the clustering analysis, it still represents spatial clustering feature. This may because of the administration unit division and community segregation. Adjacent streets will receive similar urban administration resource and attract similar population.`
 
 ##### b. Visualization & Result
 
